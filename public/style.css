@@ -1,0 +1,7 @@
+table img.list {
+    width: 30px !important
+}
+
+div.card-body img.detail {
+    width: 40px !important
+}

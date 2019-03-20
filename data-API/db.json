@@ -1,0 +1,361 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "tes",
+      "email": "tes@gmail.com",
+      "password": "tes"
+    },
+    {
+      "username": "user2",
+      "email": "user2@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "username": "donny",
+      "email": "donny.pra@gmail.com",
+      "password": "donnypass",
+      "id": 3
+    },
+    {
+      "username": "donny",
+      "email": "donny@ymail.com",
+      "password": "1234567",
+      "id": 4
+    },
+    {
+      "username": "donny3",
+      "email": "rtyui",
+      "password": "ertyu",
+      "id": 5
+    },
+    {
+      "username": "user3",
+      "email": "user@user3.com",
+      "password": "1234567",
+      "id": 6
+    },
+    {
+      "username": "donny5",
+      "email": "dfghjkl",
+      "password": "ertyuio",
+      "id": 7
+    },
+    {
+      "username": "tes4",
+      "email": "dsffds",
+      "password": "tes4",
+      "id": 8
+    },
+    {
+      "username": "tes5",
+      "email": "fvdsv",
+      "password": "tes5",
+      "id": 9
+    },
+    {
+      "username": "tes7",
+      "email": "vzvz",
+      "password": "tes7",
+      "id": 10
+    }
+  ],
+  "products": [
+    {
+      "name": "LASJON",
+      "desc": "Kain polyester dirajut padat dengan lapisan anti air.",
+      "price": 199000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/667/0566766_PE664773_S5.jpg",
+      "id": 1
+    },
+    {
+      "name": "LATTJO",
+      "desc": "Sarung quilt dan sarung bantal, kebun/aneka warna",
+      "price": 479000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/507/0650743_PE706476_S4.jpg",
+      "id": 2
+    },
+    {
+      "name": "DJUNGELSKOG",
+      "desc": "Boneka, singa/cokelat yang sangat lucu.",
+      "price": 179000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/529/0552991_PE659173_S4.jpg",
+      "id": 3
+    },
+    {
+      "name": "HANDUKKEP",
+      "desc": "Handuk dengan penutup kepala, harimau/kuning.",
+      "price": 2790000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/551/0555193_PE660189_S4.jpg",
+      "id": 4
+    },
+    {
+      "name": "ROBOTBONEKA",
+      "desc": "Boneka, robot/hijau muda.",
+      "price": 299000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/202/0520262_PE642048_S4.jpg",
+      "id": 5
+    },
+    {
+      "name": "BALKUR",
+      "desc": "Bantal kursi, burung elang/aneka warna.",
+      "price": 129000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/069/0606997_PE682663_S4.jpg",
+      "id": 6
+    },
+    {
+      "name": "BALPURMER",
+      "desc": "Bantal kursi, peri/merah muda terang ungu.",
+      "price": 145000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/069/0606996_PE682662_S3.jpg",
+      "id": 7
+    },
+    {
+      "name": "SOLIG",
+      "desc": "Bantal kursi, kuning",
+      "price": 109000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/069/0606993_PE682659_S4.jpg",
+      "id": 8
+    },
+    {
+      "name": "STADSEL",
+      "desc": "Karpet Anak Anak",
+      "price": 109000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/031/0603178_PE680698_S4.jpg",
+      "id": 9
+    }
+  ],
+  "carts": [
+    {
+      "productId": 2,
+      "username": "user2",
+      "name": "S T-Shirt",
+      "qty": 5,
+      "desc": "T-Shirt Smile",
+      "price": 150000,
+      "src": "https://res.cloudinary.com/teepublic/image/private/s--umdyubDQ--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_423/c_crop,g_north_west,h_626,w_470,x_-28,y_-87/g_north_west,u_upload:v1464728912:production:blanks:rew9odbb1ap0exlbbgo8,x_-423,y_-412/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1498434181/production/designs/1693333_1.jpg",
+      "id": 9
+    },
+    {
+      "productId": 6,
+      "username": "user2",
+      "name": "T-Shirt ",
+      "qty": 8,
+      "desc": "T-Shirt Ordinary",
+      "price": 315000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 10
+    },
+    {
+      "productId": 1,
+      "username": "",
+      "name": "T-Shirt V-Neck",
+      "qty": null,
+      "desc": "V neck shirt",
+      "price": 57000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 11
+    },
+    {
+      "productId": 1,
+      "username": "donny",
+      "name": "T-Shirt V-Neck",
+      "qty": 2,
+      "desc": "V neck shirt",
+      "price": 57000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 12
+    },
+    {
+      "productId": 5,
+      "username": "user2",
+      "name": "Shirt O Neck",
+      "qty": 5,
+      "desc": "T-Shirt O Neck",
+      "price": 345000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 13
+    },
+    {
+      "productId": 6,
+      "username": "donny",
+      "name": "T-Shirt ",
+      "qty": 1,
+      "desc": "T-Shirt Ordinary",
+      "price": 315000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 14
+    },
+    {
+      "productId": 1,
+      "username": "tes",
+      "name": "T-Shirt V-Neck",
+      "qty": 59,
+      "desc": "V neck shirt",
+      "price": 57000,
+      "src": "https://www.jakartanotebook.com/images/products/99/63/19075/2/kaos-polos-katun-pria-o-neck-size-m-81402b-or-t-shirt-black-24.jpg",
+      "id": 17
+    },
+    {
+      "productId": 3,
+      "username": "tes",
+      "name": "DJUNGELSKOG",
+      "qty": 2,
+      "desc": "Boneka, singa/cokelat yang sangat lucu.",
+      "price": 179000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/529/0552991_PE659173_S4.jpg",
+      "id": 18
+    },
+    {
+      "productId": 1,
+      "username": "tes4",
+      "name": "LASJON",
+      "qty": 31,
+      "desc": "Kain polyester dirajut padat dengan lapisan anti air.",
+      "price": 199000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/667/0566766_PE664773_S5.jpg",
+      "id": 19
+    },
+    {
+      "productId": 2,
+      "username": "tes4",
+      "name": "LATTJO",
+      "qty": 1,
+      "desc": "Sarung quilt dan sarung bantal, kebun/aneka warna",
+      "price": 479000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/507/0650743_PE706476_S4.jpg",
+      "id": 20
+    },
+    {
+      "productId": 3,
+      "username": "tes4",
+      "name": "DJUNGELSKOG",
+      "qty": 1,
+      "desc": "Boneka, singa/cokelat yang sangat lucu.",
+      "price": 179000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/529/0552991_PE659173_S4.jpg",
+      "id": 21
+    },
+    {
+      "productId": 4,
+      "username": "tes4",
+      "name": "HANDUKKEP",
+      "qty": 1,
+      "desc": "Handuk dengan penutup kepala, harimau/kuning.",
+      "price": 2790000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/551/0555193_PE660189_S4.jpg",
+      "id": 22
+    },
+    {
+      "productId": 7,
+      "username": "tes4",
+      "name": "BALPURMER",
+      "qty": 1,
+      "desc": "Bantal kursi, peri/merah muda terang ungu.",
+      "price": 145000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/069/0606996_PE682662_S3.jpg",
+      "id": 23
+    },
+    {
+      "productId": 6,
+      "username": "tes4",
+      "name": "BALKUR",
+      "qty": 14355,
+      "desc": "Bantal kursi, burung elang/aneka warna.",
+      "price": 129000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/069/0606997_PE682663_S4.jpg",
+      "id": 24
+    },
+    {
+      "productId": 2,
+      "username": "tes5",
+      "name": "LATTJO",
+      "qty": 2,
+      "desc": "Sarung quilt dan sarung bantal, kebun/aneka warna",
+      "price": 479000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/507/0650743_PE706476_S4.jpg",
+      "id": 25
+    },
+    {
+      "productId": 3,
+      "username": "tes5",
+      "name": "DJUNGELSKOG",
+      "qty": 3,
+      "desc": "Boneka, singa/cokelat yang sangat lucu.",
+      "price": 179000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/529/0552991_PE659173_S4.jpg",
+      "id": 26
+    },
+    {
+      "productId": 5,
+      "username": "tes5",
+      "name": "ROBOTBONEKA",
+      "qty": 2,
+      "desc": "Boneka, robot/hijau muda.",
+      "price": 299000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/202/0520262_PE642048_S4.jpg",
+      "id": 27
+    },
+    {
+      "productId": 7,
+      "username": "tes5",
+      "name": "BALPURMER",
+      "qty": 1,
+      "desc": "Bantal kursi, peri/merah muda terang ungu.",
+      "price": 145000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/069/0606996_PE682662_S3.jpg",
+      "id": 28
+    },
+    {
+      "productId": 2,
+      "username": "tes7",
+      "name": "LATTJO",
+      "qty": 5,
+      "desc": "Sarung quilt dan sarung bantal, kebun/aneka warna",
+      "price": 479000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/507/0650743_PE706476_S4.jpg",
+      "id": 29
+    },
+    {
+      "productId": 1,
+      "username": "tes7",
+      "name": "LASJON",
+      "qty": 21,
+      "desc": "Kain polyester dirajut padat dengan lapisan anti air.",
+      "price": 199000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/667/0566766_PE664773_S5.jpg",
+      "id": 30
+    },
+    {
+      "productId": 4,
+      "username": "tes7",
+      "name": "HANDUKKEP",
+      "qty": 1,
+      "desc": "Handuk dengan penutup kepala, harimau/kuning.",
+      "price": 2790000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/551/0555193_PE660189_S4.jpg",
+      "id": 31
+    },
+    {
+      "productId": 3,
+      "username": "tes7",
+      "name": "DJUNGELSKOG",
+      "qty": 1,
+      "desc": "Boneka, singa/cokelat yang sangat lucu.",
+      "price": 179000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/529/0552991_PE659173_S4.jpg",
+      "id": 32
+    },
+    {
+      "productId": 5,
+      "username": "tes7",
+      "name": "ROBOTBONEKA",
+      "qty": 3,
+      "desc": "Boneka, robot/hijau muda.",
+      "price": 299000,
+      "src": "https://d2xjmi1k71iy2m.cloudfront.net/dairyfarm/id/images/202/0520262_PE642048_S4.jpg",
+      "id": 33
+    }
+  ]
+}
